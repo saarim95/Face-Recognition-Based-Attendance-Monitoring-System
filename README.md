@@ -15,6 +15,13 @@ FEATURES:
 4) Creates a new CSV file everyday for attendance and marks attendance with proper date and time.
 5) Displays live attendance updates for the day on the main screen in tabular format with Id, name, date and time.
 
+STEPS:
+1) pip install all the in the command prompt.
+2) Now run the code and new GUI page appear in this at right hand side you see For new registeration enter your details.
+3) after that click on take image for capturing press "q" on your keyboard.
+4) then click on save profile it will ask you for password just type: mindgames.
+5) done, now at left side click on take attendance it will recognize your face and press "q" to the keyboard now your name with date and time shows to the atttendance sheet. 
+
 # SCREENSHOTS
 MAIN SCREEN:
 ![Screenshot (9)](https://user-images.githubusercontent.com/37211676/58502148-97ec2a00-81a3-11e9-963e-674b9c3e05dc.png)
